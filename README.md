@@ -1,7 +1,4 @@
 
-## 🧠 README.md
-
-```markdown
 # AI-Powered Jeans-to-Tops Fashion Recommender 👖→👕
 
 This project is an intelligent clothing recommendation system that suggests stylish tops based on a given jeans image using AI models. It combines vision and language understanding through **OpenAI’s GPT-4**, **CLIP**, and **FAISS** for fast, similarity-based matching.
