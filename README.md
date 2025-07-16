@@ -54,13 +54,6 @@ Clothes\_Dataset/
 
 ---
 
-## 🧪 Example Output
-
-| Input Jeans | Top 1 | Top 2 | Top 3 | Top 4 | Top 5 |
-|-------------|-------|-------|-------|-------|-------|
-| ![Jeans](sample.jpg) | ![Top1](top1.jpg) | ![Top2](top2.jpg) | ... | ... | ... |
-
----
 
 ## 📦 Setup Instructions
 
